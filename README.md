@@ -1,4 +1,4 @@
-# My Lecture Notes and Dart Tasks Repository
+# Lecture Notes and Dart Tasks Repository
 
 Welcome to my Git repository! This repository serves as a collection of my lecture notes and tasks 
 completed using Dart programming language.
